@@ -4,7 +4,7 @@ An NSView subclass, in Swift (version 3), that reproduces the waveform effect se
 
 It's a Swift port of [SISinusWaveView](https://github.com/raffael/SISinusWaveView) that also removed the requirement of `EZAudio`. There is also a [WaveformView for iOS](https://github.com/jyunderwood/WaveformView-iOS) that shares most of the same code.
 
-![WaveformView Demo](https://raw.githubusercontent.com/jyunderwood/WaveformView-macOS/master/example.png)
+![WaveformView Demo](https://raw.githubusercontent.com/jyunderwood/WaveformView-macOS/master/Example.png)
 
 ## Change Log
 
